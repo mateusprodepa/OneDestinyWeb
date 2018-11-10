@@ -1,0 +1,11 @@
+.RecommendedTables {
+  grid-area: FriendList;
+  /* background-color: #3B417B; */
+  background-color: #FFF;
+  margin: 15px 0;
+  box-shadow: .5px .9px 9px rgba(0, 0, 0, 0.3);
+  border-radius: 5px 0 5px 25px;
+  max-height: 400px;
+  min-height: 400px;
+  position: relative;
+}

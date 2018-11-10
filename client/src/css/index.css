@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  background: #3B417B;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  overflow-x: hidden;
+}
